@@ -33,7 +33,7 @@
 						<password>Killjoy123</password>
 						<workers>1</workers>
 						<workerType>Micro</workerType>
-						<applicationName>mulesoft-jenkins-ci-cd</applicationName>
+						<applicationName>mulesoft-jenkins-ci-cd-pg</applicationName>
 						<environment>Sandbox</environment>
 						<properties>
 							<key>value</key>
