@@ -34,7 +34,7 @@
 						<workers>1</workers>
 						<workerType>Micro</workerType>
 						<applicationName>mulesoft-jenkins-ci-cd-pg</applicationName>
-						<environment>Design</environment>
+						<environment>prod</environment>
 						<properties>
 							<key>value</key>
 						</properties>
