@@ -32,7 +32,7 @@
 						<username>pariwesh008</username>
 						<businessGroup>business1</businessGroup>
 						<region>us-east-2</region>
-						<password>Killjoy123</password>
+					
 						<workers>1</workers>
 						<objectStoreV2>true</objectStoreV2>
 						<workerType>Micro</workerType>
