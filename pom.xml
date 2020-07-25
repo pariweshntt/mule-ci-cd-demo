@@ -28,13 +28,13 @@
 				<configuration>
 					<cloudHubDeployment>
 						<uri>https://anypoint.mulesoft.com</uri>
-						<muleVersion>4.1.4</muleVersion>
+						<muleVersion>4.3.0</muleVersion>
 						<username>pariwesh009</username>
 						<password>Killjoy123</password>
 						<workers>1</workers>
 						<workerType>Micro</workerType>
 						<applicationName>mulesoft-jenkins-ci-cd-pg</applicationName>
-						<environment>Sandbox</environment>
+						<environment>Design</environment>
 						<properties>
 							<key>value</key>
 						</properties>
