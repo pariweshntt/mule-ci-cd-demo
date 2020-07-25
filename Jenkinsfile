@@ -4,7 +4,7 @@ pipeline
 	stages{
 		stage('Build application'){
 			steps{
-		  bat 'D:/tools/apache-maven-3.6.2/mvn clean install'
+		  bat 'D:/tools/apache-maven-3.6.2/bin/mvn clean install'
 		  }
 		}
 	}
