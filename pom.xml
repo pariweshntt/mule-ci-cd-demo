@@ -32,6 +32,7 @@
 						<username>pariwesh008</username>
 						<password>Killjoy123</password>
 						<workers>1</workers>
+						<objectStoreV2>true</objectStoreV2>
 						<workerType>Micro</workerType>
 						<applicationName>mulesoft-jenkins-ci-cd-pg</applicationName>
 						<environment>Design</environment>
