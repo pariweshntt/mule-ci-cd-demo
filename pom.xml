@@ -37,7 +37,7 @@
 						<objectStoreV2>true</objectStoreV2>
 						<workerType>Micro</workerType>
 						<applicationName>mulesoft-jenkins-ci-cd-pg123</applicationName>
-						<environment>Design</environment>
+						<environment>Sandbox</environment>
 						<properties>
 							<key>value</key>
 						</properties>
